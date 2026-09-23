@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+html {font-family: serif; font-size: 24px}
+</style>
+</head>
+<body>
+<strong>part 1:</strong>
+<br>
+saddle point at (0, 0)
+<br>
+local minimum at (1, 0.25)
+<br>
+saddle point at (2, 0)
+<br>
+<br>
+<strong>part 2:</strong>
+<br>
+maximum = 243
+<br>
+minimum = 0
+</body>
+</html>
