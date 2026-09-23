@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+html {background-color: #FF0000; font-family: sans-serif; color: white; font-size: 250px; font-weight: bold;}
+a {text-decoration: none}
+.Y {color: #FFF000}
+</style>
+</head>
+<body>
+<center>
+<a class="Y" href="https://www.youtube.com/watch?v=qWB73ZGDMJA">hell yeah</a><br>IT'S 3D
+</center>
+</body>
+</html>
